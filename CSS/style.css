@@ -156,9 +156,7 @@ button:focus {
 
   color: greenyellow;
 }
-.hero {
-  position: relative;
-}
+
 
 .hero-slider-item {
   display: block;
